@@ -11,7 +11,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		0D1B0B402E4CDE460083EEF9 /* LaunchNext.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LaunchNext.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		0D1B0B402E4CDE460083EEF9 /* LaunchNext 繁中版.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "LaunchNext 繁中版.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		0F7A6B1C3E2D4F5A6B7C8D9E /* OpenMultitouchSupport.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; path = OpenMultitouchSupport.xcconfig; sourceTree = "<group>"; };
 		690FA1FB2E88822200948FA6 /* cs */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = cs; path = cs.lproj/Localizable.strings; sourceTree = "<group>"; };
 		690FA1FC2E88822200948FA6 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Localizable.strings; sourceTree = "<group>"; };
@@ -61,7 +61,7 @@
 		0D1B0B412E4CDE460083EEF9 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				0D1B0B402E4CDE460083EEF9 /* LaunchNext.app */,
+				0D1B0B402E4CDE460083EEF9 /* LaunchNext 繁中版.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -77,9 +77,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		0D1B0B3F2E4CDE460083EEF9 /* LaunchNext */ = {
+		0D1B0B3F2E4CDE460083EEF9 /* LaunchNext 繁中版 */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = 0D1B0B4B2E4CDE480083EEF9 /* Build configuration list for PBXNativeTarget "LaunchNext" */;
+			buildConfigurationList = 0D1B0B4B2E4CDE480083EEF9 /* Build configuration list for PBXNativeTarget "LaunchNext 繁中版" */;
 			buildPhases = (
 				0D1B0B3C2E4CDE460083EEF9 /* Sources */,
 				0D1B0B3D2E4CDE460083EEF9 /* Frameworks */,
@@ -93,11 +93,11 @@
 			fileSystemSynchronizedGroups = (
 				0D1B0B422E4CDE460083EEF9 /* LaunchNext */,
 			);
-			name = LaunchNext;
+			name = "LaunchNext 繁中版";
 			packageProductDependencies = (
 			);
-			productName = LaunchNext;
-			productReference = 0D1B0B402E4CDE460083EEF9 /* LaunchNext.app */;
+			productName = "LaunchNext 繁中版";
+			productReference = 0D1B0B402E4CDE460083EEF9 /* LaunchNext 繁中版.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -143,7 +143,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				0D1B0B3F2E4CDE460083EEF9 /* LaunchNext */,
+				0D1B0B3F2E4CDE460083EEF9 /* LaunchNext 繁中版 */,
 			);
 		};
 /* End PBXProject section */
@@ -441,7 +441,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		0D1B0B4B2E4CDE480083EEF9 /* Build configuration list for PBXNativeTarget "LaunchNext" */ = {
+		0D1B0B4B2E4CDE480083EEF9 /* Build configuration list for PBXNativeTarget "LaunchNext 繁中版" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				0D1B0B4C2E4CDE480083EEF9 /* Debug */,

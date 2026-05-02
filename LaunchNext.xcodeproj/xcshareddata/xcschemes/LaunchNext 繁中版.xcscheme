@@ -16,8 +16,8 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "0D1B0B3F2E4CDE460083EEF9"
-               BuildableName = "LaunchNext.app"
-               BlueprintName = "LaunchNext"
+               BuildableName = "LaunchNext &#x7e41;&#x4e2d;&#x7248;.app"
+               BlueprintName = "LaunchNext &#x7e41;&#x4e2d;&#x7248;"
                ReferencedContainer = "container:LaunchNext.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
@@ -45,8 +45,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0D1B0B3F2E4CDE460083EEF9"
-            BuildableName = "LaunchNext.app"
-            BlueprintName = "LaunchNext"
+            BuildableName = "LaunchNext &#x7e41;&#x4e2d;&#x7248;.app"
+            BlueprintName = "LaunchNext &#x7e41;&#x4e2d;&#x7248;"
             ReferencedContainer = "container:LaunchNext.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
@@ -62,8 +62,8 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "0D1B0B3F2E4CDE460083EEF9"
-            BuildableName = "LaunchNext.app"
-            BlueprintName = "LaunchNext"
+            BuildableName = "LaunchNext &#x7e41;&#x4e2d;&#x7248;.app"
+            BlueprintName = "LaunchNext &#x7e41;&#x4e2d;&#x7248;"
             ReferencedContainer = "container:LaunchNext.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
