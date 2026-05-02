@@ -26,6 +26,7 @@
 		A1E2B5C92F4A8A1B00F12345 /* hi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = hi; path = hi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A1E2B5CA2F4A8A1B00F12345 /* vi */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = vi; path = vi.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A1E2B5CC2F4A8A1B00F12345 /* pt-BR */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "pt-BR"; path = "pt-BR.lproj/Localizable.strings"; sourceTree = "<group>"; };
+		A1E2B5CD2F4A8A1B00F12345 /* zh-Hant */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = "zh-Hant"; path = "zh-Hant.lproj/Localizable.strings"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFileSystemSynchronizedRootGroup section */
@@ -122,6 +123,7 @@
 				en,
 				Base,
 				"zh-Hans",
+				"zh-Hant",
 				ja,
 				ko,
 				fr,
@@ -205,6 +207,7 @@
 			children = (
 				A1E2B5C12F4A8A1B00F12345 /* en */,
 				A1E2B5C22F4A8A1B00F12345 /* zh-Hans */,
+				A1E2B5CD2F4A8A1B00F12345 /* zh-Hant */,
 				A1E2B5C32F4A8A1B00F12345 /* ja */,
 				A1E2B5C42F4A8A1B00F12345 /* ko */,
 				A1E2B5C52F4A8A1B00F12345 /* fr */,

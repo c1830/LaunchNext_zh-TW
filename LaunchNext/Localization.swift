@@ -4,6 +4,7 @@ enum AppLanguage: String, CaseIterable, Identifiable {
     case system = "system"
     case english = "en"
     case simplifiedChinese = "zh-Hans"
+    case traditionalChinese = "zh-Hant"
     case japanese = "ja"
     case korean = "ko"
     case french = "fr"
@@ -21,6 +22,9 @@ enum AppLanguage: String, CaseIterable, Identifiable {
     static func resolveSystemDefault() -> AppLanguage {
         guard let preferred = Locale.preferredLanguages.first else { return .english }
         let lower = preferred.lowercased()
+        if lower.hasPrefix("zh-hant") || lower.hasPrefix("zh-tw") || lower.hasPrefix("zh-hk") || lower.hasPrefix("zh-mo") {
+            return .traditionalChinese
+        }
         if lower.hasPrefix("zh") { return .simplifiedChinese }
         if lower.hasPrefix("ja") { return .japanese }
         if lower.hasPrefix("ko") { return .korean }
@@ -6113,6 +6117,8 @@ final class LocalizationManager {
 
         builder[.hindi] = hindiDictionary
 
+        builder[.traditionalChinese] = Self.traditionalChineseTranslations
+
         translations = builder
     }
 
@@ -6132,7 +6138,9 @@ final class LocalizationManager {
         case .english:
             return "English"
         case .simplifiedChinese:
-            return "中文"
+            return "简体中文"
+        case .traditionalChinese:
+            return "繁體中文"
         case .japanese:
             return "日本語"
         case .korean:
@@ -6157,4 +6165,5 @@ final class LocalizationManager {
             return "Português (Brasil)"
         }
     }
+
 }
