@@ -42,7 +42,7 @@ extension LocalizationManager {
             .perDisplayIndicatorPositionTitle: "依顯示器分別設定指示器位置",
             .perDisplayIndicatorPositionDescription: "為每台顯示器使用不同數值。",
             .applyDefaultsToCurrentDisplay: "將預設值套用到目前顯示器",
-            .appTitle: "LaunchNext",
+            .appTitle: "LaunchNext 繁中版",
             .modifiedFrom: "基於 LaunchNow 1.3.1 修改",
             .backgroundHint: "保持背景執行：可將 LaunchNext 固定在 Dock，或使用快捷鍵開啟視窗",
             .classicMode: "經典 Launchpad（全螢幕）",

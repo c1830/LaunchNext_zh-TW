@@ -369,7 +369,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleAllowMixedLocalizations = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = LaunchNext;
+				INFOPLIST_KEY_CFBundleDisplayName = "LaunchNext 繁中版";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "© 2026 RoversX / CloseX. Licensed under GPL-3.0";
@@ -378,8 +378,8 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 2.4.1;
-				PRODUCT_BUNDLE_IDENTIFIER = LaunchNext;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.c1830.LaunchNext-zh-TW";
+				PRODUCT_NAME = "LaunchNext 繁中版";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;
@@ -408,7 +408,7 @@
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleAllowMixedLocalizations = YES;
-				INFOPLIST_KEY_CFBundleDisplayName = LaunchNext;
+				INFOPLIST_KEY_CFBundleDisplayName = "LaunchNext 繁中版";
 				INFOPLIST_KEY_LSApplicationCategoryType = "public.app-category.developer-tools";
 				INFOPLIST_KEY_LSUIElement = YES;
 				INFOPLIST_KEY_NSHumanReadableCopyright = "© 2026 RoversX / CloseX. Licensed under GPL-3.0";
@@ -417,8 +417,8 @@
 					"@executable_path/../Frameworks",
 				);
 				MARKETING_VERSION = 2.4.1;
-				PRODUCT_BUNDLE_IDENTIFIER = LaunchNext;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_BUNDLE_IDENTIFIER = "com.c1830.LaunchNext-zh-TW";
+				PRODUCT_NAME = "LaunchNext 繁中版";
 				REGISTER_APP_GROUPS = YES;
 				STRING_CATALOG_GENERATE_SYMBOLS = YES;
 				SWIFT_APPROACHABLE_CONCURRENCY = YES;

@@ -1,8 +1,8 @@
-# LaunchNext
+# LaunchNext 繁中版
 
 > 加入繁體中文語系支援。
 >
-> 此 fork 以原始 LaunchNext 專案為基礎，加入台灣繁體中文在地化內容。
+> 此 fork 以原始 LaunchNext 專案為基礎，加入台灣繁體中文在地化內容，App 名稱改為「LaunchNext 繁中版」。
 
 **Languages**: [English](README.md) | [中文](i18n/README.zh.md) | [日本語](i18n/README.ja.md) | [한국어](i18n/README.ko.md) | [Français](i18n/README.fr.md) | [Español](i18n/README.es.md) | [Deutsch](i18n/README.de.md) | [Русский](i18n/README.ru.md) | [हिन्दी](i18n/README.hi.md) | [Tiếng Việt](i18n/README.vi.md) | [Italiano](i18n/README.it.md) | [Čeština](i18n/README.cs.md)
 
